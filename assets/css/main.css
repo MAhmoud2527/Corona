@@ -679,6 +679,9 @@ mat-label , .flex-c-m{
   min-width: 30px;
   max-width: 30px;
   margin: 0 10px;
+  min-height: 20px;
+  max-height: 20px;
+  height: 20px;
 }
 .info{
   color: #cd201f;
