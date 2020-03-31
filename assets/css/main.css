@@ -171,6 +171,11 @@ input.input100 {
     visibility: visible;
     opacity: 1;
   }
+  .mat-form-field-appearance-legacy .mat-form-field-infix {
+    padding: .4375em 0;
+    min-width: 280px;
+    max-width: 280px;
+  }
 }
 
 
@@ -278,7 +283,7 @@ input.input100 {
 }
 
 .size4 {
-  width: 100%;
+  width: 88%;
   height: 50px;
 }
 
@@ -389,6 +394,10 @@ input.input100 {
   .parallax100 {
     background-attachment: inherit;
   }
+  .size4 {
+    width: 95%;
+    height: 50px;
+}
 }
 
 /*---------------------------------------------*/
@@ -651,8 +660,8 @@ a{
 
 .mat-form-field-appearance-legacy .mat-form-field-infix {
   padding: .4375em 0;
-  min-width: 364px;
-  max-width: 365px;
+  min-width: 310px;
+  max-width: 310px;
 }
 mat-label , .flex-c-m{
   font-weight: bold;
